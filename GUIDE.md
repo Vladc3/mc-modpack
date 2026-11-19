@@ -69,6 +69,16 @@ Nové profese: vesničanovi bez práce polož vedle **pracovní stůl**.
 ## 7. Bossové a unikátní meče
 
 - Náhodně se spawnují **bossové podle biomu**: poušť (pharaoh), sníh (frost), bažina a džungle (witch), tajga (illusioner), hory (marksman), oceán (tidelord), Nether a výchozí warlord.
+- Každý boss má **boss bar**, dvě vlastní schopnosti a pod půlkou životů se **rozzuří** (silnější, přivolá posily):
+  - Warlord: válečný pokřik (slabost), posily
+  - Pharaoh: písečná bouře (slepota), kletba hrobky (hlad, wither)
+  - Frost: mrazivý dech, ledové sevření
+  - Witch: jedový mrak, levitace
+  - Illusioner: teleport za tebe, oslepení
+  - Marksman: déšť šípů, označení cíle
+  - Tidelord: kletba hlubin (únava), přílivová vlna
+  - Wither Champion: ohnivý kruh, pekelní služebníci
+- Kdo bosse porazí, toho ohlásí chat celému serveru.
 - Padají z nich **unikátní meče** (Simply Swords), ale jen když bosse zabije hráč.
 - Schopnost meče: **`R`**. Záložně funguje **Shift + pravý klik**.
 - **Runic Forge** probouzí unikátní zbraně.
