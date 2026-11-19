@@ -17,18 +17,11 @@ Stáhni si poslední verzi z [Releases](../../releases/latest).
 
 **Aktualizace:** při nové verzi stáhni nový `.mrpack` (nebo smaž staré mody a rozbal nový zip). Staré mody nenechávej, vyhodí tě to.
 
-## Ovládání
+## Jak hrát
 
-- **Třídy:** Mage (Wizards), Tank (Paladins & Priests), Rogue (Rogues & Warriors), Archer (Archers). Zbraň nebo hůl dané třídy ti dá kouzla.
-- **Kouzla:** pravý klik = první kouzlo, číselné klávesy = další kouzla, když držíš zbraň s kouzly.
-- **Unikátní meče (Simply Swords):** schopnost meče spustíš přes **Shift + pravý klik**.
-- **Mapa:** `M` (Xaero's World Map), minimapa v rohu.
-- **Recepty:** EMI v inventáři.
-- **Voice chat:** `V` = nastavení, mluvíš držením `Caps Lock` (push-to-talk).
+Třídy, progrese výbavy, šperky, vesničané, kam za strukturami a všechny klávesy: **[GUIDE.md](GUIDE.md)**.
 
-## Bossové
-
-Ve světě se náhodně objevují bossové podle biomu (poušť, sníh, bažina, oceán, Nether…). Padají z nich unikátní meče, ale jen když je zabije hráč.
+Nejdůležitější klávesy: `R` schopnost meče, pravý klik / `1`–`9` kouzla, `B` batoh, `M` mapa, `V` voice chat (mluvíš držením `Caps Lock`).
 
 ## Když něco nejde
 
