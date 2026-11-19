@@ -1,6 +1,6 @@
 # Guide: jak na server
 
-Krátce, co dělat od prvního dne po endgame. Recepty ukazuje **EMI**: v inventáři najeď na item a zmáčkni `R` (recept) nebo `U` (k čemu se hodí).
+Krátce, co dělat od prvního dne po endgame. **Ve hře je tenhle guide jako kniha**: dostaneš ji při prvním připojení, novou si vyrobíš z **prkna + hlíny**. Recepty ukazuje **EMI**: v inventáři najeď na item a zmáčkni `R` (recept) nebo `U` (k čemu se hodí).
 
 ## 1. První den
 
